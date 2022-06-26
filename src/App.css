@@ -1,4 +1,9 @@
 .App {
   text-align: center;
   display: flex;
+  background-color: #f9ebd7;
+  width: 100vw;
+  align-items: center;
+  justify-content: center;
 }
+
